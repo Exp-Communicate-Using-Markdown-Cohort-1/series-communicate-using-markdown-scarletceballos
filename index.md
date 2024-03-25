@@ -1,5 +1,8 @@
 # Hello
 ##### Welcome!
+- [ ] Make headers
+- [ ] Import image
+- [ ] Add code Example
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ```
